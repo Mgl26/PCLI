@@ -1,0 +1,3 @@
+Function Donde(){
+	$global:defaultviservers
+}
